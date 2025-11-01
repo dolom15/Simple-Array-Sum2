@@ -1,1 +1,1 @@
-# Simple-Array-Sum2
+# Simple-Array-Sum2 This C# program reads a list of integers from the console and is designed to pass them to the `simpleArraySum` function, which should return the sum of all elements in the list, though the function implementation is currently missing. The result is then written to the output file specified by the `OUTPUT_PATH` environment variable.
